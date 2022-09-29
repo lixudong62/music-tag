@@ -1,0 +1,16 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "自动填充音乐标签信息",
+  "main": "MusicTag.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-id3": "^0.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
